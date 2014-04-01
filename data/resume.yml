@@ -27,7 +27,7 @@ info:
 
 skills:
     - name: Web design
-      desc: Ruby on rails 4, Middleman, Sass / Compass, Node.js, Yeoman, Jquery / Jquery-UI, JS / Coffee, HTML5, rspec, cucumber, Factory_Girl, guard, Pivot-tracker, ActiveRecord, spork, MongoDB, MySQL, Postre, 4D, Wakanda, Cucumber, Java
+      desc: Ruby on rails 4, Middleman, Sass / Compass, Node.js, Yeoman, Jquery / Jquery-UI,  Coffee, ClojureScript, HTML5, rspec,  Factory_Girl, guard, Pivot-tracker, ActiveRecord, spork, MongoDB, MySQL, Cucumber, Java, Clojure, Groovy
     - name: Apps
       desc: iOS7, Android, Phonegap, xcode, VIM, IntelliJ
 
@@ -36,7 +36,7 @@ languages:
       level: Native language
     - name: German
       level: Native language
-    - name: Spanish
+    - name: Spannish
       level: good
 
 alphabetsoup:
@@ -61,11 +61,21 @@ links:
       url: https://github.com/rocknrollMarc 
 
 jobs:
+
+    - title: BDD Agile test systems implementation and coaching / Front end Development, AngularJS, Censhare Java development 
+    company: Media-sp AG
+    dates:
+          start: 2014
+          end: Present
+      desc: |
+        Java, html5, xml, Censhare, AngularJS, ClojureScript, Clojure, scala,cucumber, Karma, Jasmine
+
+
     - title: iOS / Android / Web Developer
       company: Mampaey design and development
       dates: 
           start: 2012 
-          end: Present
+          end: 2014
       desc: |
           iOS7, Android, xcode, VIM, jenkins, Ant, gradle, html5, javascript, MySQL, MongoDB, Compass, yeoman, active record, rails4, foundation 5, rspec, cucumber  
 
@@ -73,7 +83,7 @@ jobs:
 
         
 
-    - title: Android developer
+    - title: Frontend developer
       company: Fuchs-EDV
       dates: 
           start: 2011
@@ -89,7 +99,7 @@ jobs:
       desc: |
           HTML, XHTML, Homesite, ABAP, CSS 
 
-    - title: Webdeveloper
+    - title: Android developer
       company: Appdream
       dates: 
           start: 2009
